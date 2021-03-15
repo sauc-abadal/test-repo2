@@ -1,10 +1,10 @@
 # Test 2
 
-Some text
+This is the 2nd Test Repository
 
 ## Subheader
 
-Hello
+Some Text
 
 ## Local Development
 
